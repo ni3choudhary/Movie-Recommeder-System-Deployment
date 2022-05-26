@@ -25,9 +25,9 @@ Install Libraries using below command
 ```console
 $ pip install -r requirements.txt
 ```
-Generate an API key from tmdb website and then create a .env folder in root directory with below details.
+Generate an API key from tmdb website and then create a .env file in root directory with below details.
 ```console
-$ API_KEY = "Your-API-Key"
+API_KEY = "Your-API-Key"
 ```
 - Run jupyter notebook to get the pickle files
 
